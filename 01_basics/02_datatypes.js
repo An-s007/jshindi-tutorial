@@ -1,5 +1,5 @@
 "use strict";// treat all js code as new version
-// alert( 3 + 3) // we are using nodejs, not browser
+// alert(3 + 3) // we are using nodejs, not browser
 console.log(3
      + 3);  //code readability should be high
 
@@ -19,4 +19,3 @@ console.log(3
      console.log(typeof age);
      console.log(typeof null);
      console.log(typeof undefined);
-     console.log(typeof );
