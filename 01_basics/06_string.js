@@ -21,6 +21,7 @@ console.log(anotherString);
 const newStringOne = " anilsudani "
 console.log(newStringOne);
 console.log(newStringOne.trim());
+console.log(newStringOne.trimEnd());
 
 const url ="https://hitesh.com/hitesh%20chaudhary"
 console.log(url.replace('%20', '_'));
