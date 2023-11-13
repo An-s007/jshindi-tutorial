@@ -5,7 +5,7 @@ const repoCount = 50
 console.log(`hello my name is ${name} and my repo count is ${repoCount}`);
 
 const gameName = new String('aniljj')
-// open google and paster above line in inspection/console tab and observe every funstion of string.
+// open google and paste above line in inspection/console tab and observe every function of string.
 // console.log(gameName[0]);
 // console.log(gameName.__proto__);
 // console.log(gameName.length);
